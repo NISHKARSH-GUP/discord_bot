@@ -111,4 +111,4 @@ async def unban(ctx, *, member):
             return
 
 
-client.run("ODg4MzM5ODIxNTY1NzM0OTIy.YURQ7g.WOukRIBA6wqwjk774CSmpW-Y5yE")
+client.run("<<scrubbed>>")
